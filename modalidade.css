@@ -1,0 +1,14 @@
+.titulo{
+    color: green;
+    font-family: "Montserrat", sans-serif;
+    
+}
+.box{
+    width: 300px;
+    /* o alinhamento da <div> */
+    display: inline-block;
+    /* mudando a margem direita */
+    margin-right: 150px;
+    /* colocando a borda na <div> */
+    border: 10px solid red;
+}
